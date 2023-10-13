@@ -1,4 +1,4 @@
-# HangMan-Game
+
 import random
 
 name=input('in Name: ')
