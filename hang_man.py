@@ -47,3 +47,11 @@ while count>0 :
         print('wrong')
     else:
         guesses+=guess
+        
+
+    
+    man(count)
+    count-=1
+    if count==0:
+        print('you loose')
+
